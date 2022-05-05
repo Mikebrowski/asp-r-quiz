@@ -1,0 +1,36 @@
+ npm create-react-app whatevernameinserthere
+
+GO TO  https://mui.com/
+ Material UI 
+ DOCS
+
+ROBOTO FONT 
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+/>
+
+FONT ICONS
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+
+
+ https://mui.com/material-ui/getting-started/installation/
+
+ npm install @mui/material @emotion/react @emotion/styled 
+
+
+
+ // TO GET THE KEY GUI COMPENTETS 
+
+
+ TAKE NOTE IN REACT ITS CALLED HOOKS TO GRAB DATA ONSUBMIT in forms ONCHANGE is the validation 
+
+
+ import useForm from "react-hooks-form"
+
+ THIS IS best way BUT 
+ npm install react-hook-form
+
